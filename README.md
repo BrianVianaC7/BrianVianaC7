@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/BrianVianaC7/readme-typing-svg">
+  <a href="https://github.com/BrianVianaC7">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&&repeat=false&width=435&lines=Brian+Viana" /></a>
 </p>
 <p align="center">
