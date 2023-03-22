@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&&repeat=false&width=435&lines=Brian+Viana" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/BrianVianaC7/readme-typing-svg">
+  <a href="https://github.com/BrianVianaC7">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&&width=720&lines=I'm+studying+Computer+systems+engineering;Always+learning+new+things" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrianVianaC7/readme-typing-svg">
+  <a href="">
     <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" /></a>
 </p>
 
