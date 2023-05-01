@@ -16,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/brian-viana7/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrianVianaC7&theme=github_dark) 
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=BrianVianaC7&show_icons=true&theme=radical)](https://github.com/BrianVianaC7/github-readme-stats)
 
 
 
