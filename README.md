@@ -17,6 +17,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrianVianaC7&theme=github_dark) 
 ![](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/BrianVianaC7/profile)
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=BrianVianaC7&show_icons=true&theme=radical)](https://github.com/BrianVianaC7/github-readme-stats)
+
 
 
 
