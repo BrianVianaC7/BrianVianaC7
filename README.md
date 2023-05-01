@@ -16,8 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/brian-viana7/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrianVianaC7&theme=github_dark) 
-![](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/BrianVianaC7/)
-(https://github.com/BrianVianaC7/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BrianVianaC7)
 
 
 
