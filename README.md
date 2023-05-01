@@ -17,7 +17,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianvianac7&theme=github_dark)
 ![](https://komarev.com/ghpvc/?username=BrianVianaC7&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=BrianVianaC7) 
 
 
 
