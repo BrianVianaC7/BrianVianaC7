@@ -23,6 +23,8 @@
 </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BrianVianaC7&show_icons=true&theme=react&include_all_commits=true&count_private=true)
+
 
 
 
