@@ -20,9 +20,10 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brianvianac7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianvianac7&layout=compact&langs_count=8&theme=dark"/>
   <img height="20em" src="https://komarev.com/ghpvc/?username=BrianVianaC7&style=for-the-badge&label=VIEWS"/>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
 </a>
 </p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
