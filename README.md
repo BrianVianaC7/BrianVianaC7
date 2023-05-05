@@ -23,8 +23,8 @@
 </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianVianaC7&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianVianaC7&show_icons=true&theme=react&include_all_commits=true&count_private=true)
+
 
 
 
