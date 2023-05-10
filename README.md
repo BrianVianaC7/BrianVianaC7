@@ -24,7 +24,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianvianac7&layout=compact&langs_count=20&theme=github_dark"/>
   
-  <img height="20em" src="https://komarev.com/ghpvc/?username=BrianVianaC7&style=for-the-badge&label=VIEWS"/>
+  <img height="30em" src="https://komarev.com/ghpvc/?username=BrianVianaC7&style=for-the-badge&label=VIEWS"/>
 </a>
 </p>
 
