@@ -22,7 +22,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianVianaC7&show_icons=true&rank_icon=github&theme=github_dark&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianvianac7&layout=compact&langs_count=20&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianvianac7&layout=compact&langs_count=8&theme=github_dark"/> 
   
   <img height="30em" src="https://komarev.com/ghpvc/?username=BrianVianaC7&style=for-the-badge&label=VIEWS"/>
 </a>
