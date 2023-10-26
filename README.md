@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/BrianVianaC7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&&repeat=false&width=435&lines=Brian+Viana" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Brian+Viana" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Android+Developer">
 </p>
 <p align="center">
   <a href="https://github.com/BrianVianaC7">
